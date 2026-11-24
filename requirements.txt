@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas
+numpy
+networkx
+pandapower
+plotly
+reportlab
+openpyxl
+pillow
